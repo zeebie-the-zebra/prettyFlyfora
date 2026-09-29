@@ -38,7 +38,7 @@ Needs a working OpenGL stack for `--view 3d` (and a display for windowed mode).
 | `--view 2d\|3d` | `2d` | Renderer |
 | `--fps` | `20` | Windowed frame rate |
 | `--energy-hours` | `1.0` | Hours from full energy → empty at `--fps` (no food) |
-| `--flight` / `--no-flight` | on | Stage D real flight (voluntary cruise + escape). Off = walk only |
+| `--flight` / `--no-flight` | on | real flight (voluntary cruise + escape). Off = walk only |
 | `--controller connectome\|greedy\|random` | `connectome` | Drive mode |
 | `--seed` | `0` | RNG seed |
 
@@ -51,7 +51,7 @@ Needs a working OpenGL stack for `--view 3d` (and a display for windowed mode).
 - `L` — force loom / escape  
 - **3D:** mouse drag orbit · scroll zoom  
 
-## Flight (Stage D)
+## Flight
 
 Default is **real walk/fly**, not walk-only with a cosmetic hop:
 
