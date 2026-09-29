@@ -1,0 +1,472 @@
+primary_type,sim_role,sim_tier,sim_weight_scale,sim_source,curated_role,map_code,tags,primary_modality,primary_tier,decoder_role,discovery_role,discovery_confidence,n_instances
+aSP22,arousal,hand,1.0,hand _DN_ROLE=arousal,parked,visual.weak+odor.weak|lr:lateralized|n:3,loom+odor+visual+turn,visual,weak,arousal,arousal_like,0.7,2
+DNg40,escape,curated,1.0,curated_role=escape,escape,loom.strong+wind.weak|lr:lateralized|n:3,loom+wind+visual+turn+inhibitory,loom,strong,thrust,loom_escape,0.9,2
+DNp01,escape,curated,1.0,curated_role=escape,escape,loom.strong+visual.mod|lr:lateralized|n:3,loom+wind+visual+turn,loom,strong,steer,loom_escape,0.9,2
+DNp04,escape,curated,1.0,curated_role=escape,escape,loom.strong+visual.mod|lr:lateralized|n:2,loom+visual+turn,loom,strong,steer,loom_escape,0.9,2
+DNp06,escape,curated,1.0,curated_role=escape,escape,loom.strong+wind.mod|lr:lateralized|n:4,loom+odor+wind+visual+turn,loom,strong,steer,loom_escape,0.9,2
+DNp103,steer,hand,1.0,hand _DN_ROLE=steer,escape,loom.strong+visual.weak|lr:lateralized|n:3,loom+odor+visual+turn,loom,strong,steer,loom_escape,0.9,2
+DNp71,escape,curated,1.0,curated_role=escape,escape,loom.strong+odor.weak|lr:lateralized|n:3,loom+odor+visual+turn,loom,strong,steer,loom_escape,0.9,2
+DNpe025,escape,curated,1.0,curated_role=escape,escape,loom.strong+visual.weak|lr:lateralized|n:2,loom+visual+turn,loom,strong,brake,loom_escape,0.9,2
+DNpe056,escape,curated,1.0,curated_role=escape,escape,loom.strong+visual.weak|lr:lateralized|n:2,loom+visual+turn,loom,strong,brake,loom_escape,0.9,2
+DNp35,escape,curated,1.0,curated_role=escape,escape,loom.mod+visual.mod|lr:lateralized|n:4,loom+odor+wind+visual+turn,loom,mod,steer,loom_escape,0.8597243074841759,2
+DNp55,escape,stim,0.4,parked primary=loom.mod,parked,loom.mod+wind.mod|lr:lateralized|n:4,loom+wind+taste+visual+turn,loom,mod,steer,loom_escape,0.799807351991491,2
+DNp36,escape,stim,0.4,parked primary=loom.mod,parked,loom.mod+visual.weak|lr:lateralized|n:2,loom+visual+turn+inhibitory,loom,mod,steer,loom_escape,0.7783202281000886,2
+DNp34,escape,curated,1.0,curated_role=escape,escape,loom.mod+visual.weak|lr:lateralized|n:2,loom+visual+turn,loom,mod,steer,loom_escape,0.7744546968971249,2
+DNae004,escape,stim,0.4,parked primary=loom.mod,parked,loom.mod+visual.weak|lr:lateralized|n:3,loom+wind+visual+turn,loom,mod,steer,loom_escape,0.7712678370505054,2
+DNpe042,brake,hand,1.0,hand _DN_ROLE=brake,parked,loom.mod+visual.weak|lr:lateralized|n:3,loom+odor+visual+turn,loom,mod,brake,loom_escape,0.7556098944771987,2
+DNpe045,escape,stim,0.4,parked primary=loom.mod,parked,loom.mod+visual.weak|lr:lateralized|n:3,loom+odor+visual+turn,loom,mod,brake,loom_escape,0.7522356924719549,2
+DNge119,escape,stim,0.4,parked primary=loom.mod,parked,loom.mod+odor.weak|lr:bilateral|n:3,loom+odor+visual+inhibitory,loom,mod,steer,loom_escape,0.7487282937540534,2
+DNge010,escape,stim,0.4,parked primary=loom.mod,parked,loom.mod|lr:lateralized|n:1,loom+turn,loom,mod,steer,loom_escape,0.7484920836925416,2
+DNg33,escape,stim,0.4,parked primary=loom.mod,parked,loom.mod+visual.weak|lr:bilateral|n:2,loom+visual,loom,mod,thrust,loom_escape,0.7421351381983154,2
+DNp70,escape,stim,0.4,parked primary=loom.mod,parked,loom.mod+visual.weak|lr:mixed|n:3,loom+odor+visual,loom,mod,steer,loom_escape,0.7416944413947403,2
+DNg45,escape,stim,0.4,parked primary=loom.mod,parked,loom.mod+visual.weak|lr:lateralized|n:2,loom+visual+turn,loom,mod,thrust,loom_escape,0.7406599115628505,2
+DNge102,escape,stim,0.4,parked primary=loom.mod,parked,loom.mod|lr:lateralized|n:1,loom+turn,loom,mod,steer,loom_escape,0.738803646327527,4
+DNa05,escape,stim,0.4,parked primary=loom.mod,parked,loom.mod+visual.weak|lr:lateralized|n:2,loom+visual+turn,loom,mod,steer,loom_escape,0.7385440895263993,2
+DNge099,escape,stim,0.4,parked primary=loom.mod,parked,loom.mod+odor.weak|lr:bilateral|n:4,loom+odor+wind+visual+inhibitory,loom,mod,steer,loom_escape,0.7371636295904094,2
+DNp13,escape,stim,0.4,parked primary=loom.mod,parked,loom.mod+visual.weak|lr:lateralized|n:2,loom+visual+turn,loom,mod,steer,loom_escape,0.7310393272307444,2
+DNp64,escape,stim,0.4,parked primary=loom.mod,parked,loom.mod+visual.weak|lr:lateralized|n:2,loom+visual+turn,loom,mod,steer,loom_escape,0.727727755957228,2
+DNge120,escape,stim,0.4,parked primary=loom.mod,parked,loom.mod|lr:bilateral|n:1,loom,loom,mod,steer,loom_escape,0.7260890340861396,2
+DNa07,escape,curated,1.0,curated_role=escape,escape,loom.mod+visual.mod|lr:lateralized|n:3,loom+odor+visual+turn,loom,mod,steer,loom_escape,0.7257497553136033,2
+DNp57,escape,curated,1.0,curated_role=escape,escape,loom.mod+visual.weak|lr:lateralized|n:2,loom+visual+turn,loom,mod,steer,loom_escape,0.7257492088316372,2
+DNpe040,escape,curated,1.0,curated_role=escape,escape,loom.mod+visual.weak|lr:mixed|n:2,loom+visual,loom,mod,brake,loom_escape,0.7250492842489011,2
+DNpe024,escape,stim,0.4,parked primary=loom.mod,parked,loom.mod+visual.weak|lr:lateralized|n:2,loom+visual+turn,loom,mod,brake,loom_escape,0.7204926180464052,2
+DNge131,escape,stim,0.4,parked primary=loom.mod,parked,loom.mod+taste.weak|lr:lateralized|n:4,loom+odor+wind+taste+turn,loom,mod,steer,loom_escape,0.7181007765636215,2
+DNp03,steer,stim,0.4,visual.mod lateralized/turn,parked,visual.mod+loom.mod|lr:lateralized|n:3,loom+odor+visual+turn,visual,mod,steer,loom_escape,0.58,2
+DNp07,steer,stim,0.4,visual.mod lateralized/turn,parked,visual.mod+loom.mod|lr:lateralized|n:2,loom+visual+turn,visual,mod,steer,loom_escape,0.58,2
+DNg15,wind,curated,1.0,curated_role=wind_jo,wind_jo,wind.mod+odor.mod|lr:lateralized|n:2,odor+wind+turn,wind,mod,thrust,multimodal,0.74,2
+DNg57,odor,putative,0.6,curated_role=odor_putative,odor_putative,odor.mod+wind.mod|lr:lateralized|n:3,loom+odor+wind+turn,odor,mod,thrust,multimodal,0.74,2
+DNg63,taste,stim,0.4,parked primary=taste.mod,parked,taste.mod+odor.mod|lr:lateralized|n:3,odor+taste+visual+turn,taste,mod,thrust,multimodal,0.74,2
+DNge141,walk,stim,0.4,visual.mod bilateral/walk,parked,visual.mod+wind.mod|lr:bilateral|n:3,odor+wind+visual+walk+inhibitory,visual,mod,steer,multimodal,0.74,2
+DNb05,thrust,hand,1.0,hand _DN_ROLE=thrust,odor_al,odor.strong+wind.mod|lr:lateralized|n:4,loom+odor+wind+visual+turn,odor,strong,thrust,odor_modulated,0.9,2
+DNc01,odor,putative,0.6,curated_role=odor_putative,odor_putative,odor.strong+visual.mod|lr:lateralized|n:2,odor+visual+turn,odor,strong,thrust,odor_modulated,0.9,2
+DNp29,odor,curated,1.0,curated_role=odor_al,odor_al,odor.strong+loom.weak|lr:mixed|n:3,loom+odor+visual,odor,strong,steer,odor_modulated,0.9,2
+DNp32,odor,curated,1.0,curated_role=odor_al,odor_al,odor.strong+visual.weak|lr:mixed|n:3,odor+taste+visual,odor,strong,steer,odor_modulated,0.9,2
+DNpe046,odor,curated,1.0,curated_role=odor_al,odor_al,odor.strong+taste.mod|lr:mixed|n:2,odor+taste,odor,strong,brake,odor_modulated,0.9,2
+DNc02,odor,curated,1.0,curated_role=odor_al,odor_al,odor.mod+wind.mod|lr:mixed|n:4,loom+odor+wind+visual,odor,mod,thrust,odor_modulated,0.8699271090299036,2
+DNp62,odor,putative,0.6,curated_role=odor_putative,odor_putative,odor.mod+taste.weak|lr:bilateral|n:3,odor+taste+visual,odor,mod,steer,odor_modulated,0.8418971672025841,2
+DNpe002,odor,curated,1.0,curated_role=odor_al,odor_al,odor.mod+wind.weak|lr:lateralized|n:3,odor+wind+visual+turn,odor,mod,brake,odor_modulated,0.8268618187682096,2
+DNge075,odor,putative,0.6,curated_role=odor_putative,odor_putative,odor.mod|lr:none|n:1,odor,odor,mod,steer,odor_modulated,0.8232027914387726,2
+DNp24,odor,putative,0.6,curated_role=odor_putative,odor_putative,odor.mod+taste.mod|lr:lateralized|n:3,odor+taste+visual+turn,odor,mod,steer,odor_modulated,0.8099155307375902,2
+DNpe038,odor,putative,0.6,curated_role=odor_putative,odor_putative,odor.mod|lr:bilateral|n:1,odor,odor,mod,brake,odor_modulated,0.808294542186676,2
+DNp56,odor,putative,0.6,curated_role=odor_putative,odor_putative,odor.mod+visual.weak|lr:lateralized|n:2,odor+visual+turn,odor,mod,steer,odor_modulated,0.7888283094149928,2
+DNp46,odor,curated,1.0,curated_role=odor_al,odor_al,odor.mod+loom.weak|lr:lateralized|n:3,loom+odor+visual+turn,odor,mod,steer,odor_modulated,0.783790880069192,2
+DNge054,odor,putative,0.6,curated_role=odor_putative,odor_putative,odor.mod+wind.mod|lr:lateralized|n:4,loom+odor+wind+visual+turn+inhibitory,odor,mod,steer,odor_modulated,0.7714839033221876,2
+oviDNa_b,odor,putative,0.6,curated_role=odor_putative,odor_putative,odor.mod+taste.mod|lr:mixed|n:2,odor+taste,odor,mod,generic,odor_modulated,0.7685693255984756,2
+DNp47,odor,putative,0.6,curated_role=odor_putative,odor_putative,odor.mod+visual.weak|lr:mixed|n:2,odor+visual,odor,mod,steer,odor_modulated,0.7680727307290108,2
+DNp42,odor,curated,1.0,curated_role=odor_al,odor_al,odor.mod+visual.weak|lr:lateralized|n:2,odor+visual+turn,odor,mod,steer,odor_modulated,0.7607436954325398,2
+DNg86,odor,putative,0.6,curated_role=odor_putative,odor_putative,odor.mod+loom.weak|lr:lateralized|n:3,loom+odor+visual+turn,odor,mod,thrust,odor_modulated,0.7559190008819584,2
+DNp43,odor,putative,0.6,curated_role=odor_putative,odor_putative,odor.mod+visual.weak|lr:lateralized|n:2,odor+visual+turn,odor,mod,steer,odor_modulated,0.7528041540387429,2
+DNge041,odor,curated,1.0,curated_role=odor_al,odor_al,odor.mod+visual.weak|lr:lateralized|n:2,odor+visual+turn,odor,mod,steer,odor_modulated,0.7511797674121097,2
+DNp05,odor,putative,0.6,curated_role=odor_putative,odor_putative,odor.mod+visual.mod|lr:lateralized|n:4,loom+odor+wind+visual+turn,odor,mod,steer,odor_modulated,0.7498530202537756,2
+DNpe033,odor,putative,0.6,curated_role=odor_putative,odor_putative,odor.mod+visual.weak|lr:mixed|n:3,odor+taste+visual+inhibitory,odor,mod,brake,odor_modulated,0.7483808872585621,2
+DNbe007,odor,putative,0.6,curated_role=odor_putative,odor_putative,odor.mod+visual.weak|lr:lateralized|n:3,loom+odor+visual+turn,odor,mod,thrust,odor_modulated,0.7460634282991547,2
+DNge133,odor,putative,0.6,curated_role=odor_putative,odor_putative,odor.mod+wind.weak|lr:lateralized|n:2,odor+wind+turn,odor,mod,steer,odor_modulated,0.7448067406012566,2
+DNpe048,odor,curated,1.0,curated_role=odor_al,odor_al,odor.mod+visual.mod|lr:mixed|n:2,odor+visual,odor,mod,brake,odor_modulated,0.7435973293372292,2
+DNa08,odor,putative,0.6,curated_role=odor_putative,odor_putative,odor.mod+visual.mod|lr:lateralized|n:3,loom+odor+visual+turn,odor,mod,steer,odor_modulated,0.7435840912709791,2
+DNge083,odor,putative,0.6,curated_role=odor_putative,odor_putative,odor.mod+visual.weak|lr:lateralized|n:2,odor+visual+turn+inhibitory,odor,mod,steer,odor_modulated,0.7433605532988151,2
+DNpe043,odor,putative,0.6,curated_role=odor_putative,odor_putative,odor.mod+visual.weak|lr:mixed|n:4,loom+odor+wind+visual,odor,mod,brake,odor_modulated,0.7421856575542208,2
+DNpe034,odor,putative,0.6,curated_role=odor_putative,odor_putative,odor.mod|lr:lateralized|n:1,odor+turn,odor,mod,brake,odor_modulated,0.741968764093597,2
+DNd02,odor,putative,0.6,curated_role=odor_putative,odor_putative,odor.mod+wind.weak|lr:none|n:2,odor+wind,odor,mod,generic,odor_modulated,0.741612369165226,2
+DNpe041,odor,putative,0.6,curated_role=odor_putative,odor_putative,odor.mod+visual.weak|lr:mixed|n:3,odor+taste+visual+inhibitory,odor,mod,brake,odor_modulated,0.7380272994537485,2
+DNg39,odor,putative,0.6,curated_role=odor_putative,odor_putative,odor.mod+wind.weak|lr:lateralized|n:3,odor+wind+visual+turn,odor,mod,thrust,odor_modulated,0.736248075499833,2
+DNpe047,odor,putative,0.6,curated_role=odor_putative,odor_putative,odor.mod|lr:bilateral|n:1,odor,odor,mod,brake,odor_modulated,0.7340508527420009,2
+DNpe021,odor,putative,0.6,curated_role=odor_putative,odor_putative,odor.mod+visual.mod|lr:lateralized|n:3,loom+odor+visual+turn,odor,mod,brake,odor_modulated,0.7319771040998101,2
+DNp48,odor,putative,0.6,curated_role=odor_putative,odor_putative,odor.mod+visual.weak|lr:bilateral|n:2,odor+visual,odor,mod,steer,odor_modulated,0.7318212944996584,2
+oviDNb,odor,putative,0.6,curated_role=odor_putative,odor_putative,odor.mod+taste.weak|lr:mixed|n:2,odor+taste,odor,mod,generic,odor_modulated,0.7304917884459358,2
+DNp30,odor,putative,0.6,curated_role=odor_putative,odor_putative,odor.mod+visual.mod|lr:lateralized|n:3,loom+odor+visual+turn,odor,mod,steer,odor_modulated,0.7266085034081535,2
+DNge128,odor,putative,0.6,curated_role=odor_putative,odor_putative,odor.mod|lr:lateralized|n:1,odor+turn+inhibitory,odor,mod,steer,odor_modulated,0.7224466845912458,2
+DNg19,odor,putative,0.6,curated_role=odor_putative,odor_putative,odor.mod+loom.weak|lr:bilateral|n:3,loom+odor+visual,odor,mod,thrust,odor_modulated,0.7224347006965373,2
+DNp52,odor,putative,0.6,curated_role=odor_putative,odor_putative,odor.mod+visual.weak|lr:bilateral|n:2,odor+visual,odor,mod,steer,odor_modulated,0.7204708439262086,2
+DNge124,odor,putative,0.6,curated_role=odor_putative,odor_putative,odor.mod+loom.weak|lr:lateralized|n:3,loom+odor+visual+turn,odor,mod,steer,odor_modulated,0.7168254278170203,2
+DNge105,odor,putative,0.6,curated_role=odor_putative,odor_putative,odor.mod+taste.weak|lr:lateralized|n:2,odor+taste+turn,odor,mod,steer,odor_modulated,0.707352438441512,2
+DNg61,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,silent,none,none,thrust,silent,0.85,2
+DNg72,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,silent,none,none,thrust,silent,0.85,4
+DNge055,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,inhibitory,none,none,steer,silent,0.85,2
+DNge061,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,silent,none,none,steer,silent,0.85,4
+DNge074,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,silent,none,none,steer,silent,0.85,2
+DNge153,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,silent,none,none,steer,silent,0.85,1
+DNpe029,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,silent,none,none,brake,silent,0.85,4
+DNxl114,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,inhibitory,none,none,generic,silent,0.85,1
+DNb01,steer,stim,0.3,visual.weak lateralized/turn,parked,visual.weak+wind.weak|lr:lateralized|n:2,wind+visual+turn+inhibitory,visual,weak,thrust,stop_candidate,0.55,2
+DNb09,steer,stim,0.4,visual.mod lateralized/turn,parked,visual.mod+wind.weak|lr:lateralized|n:4,loom+odor+wind+visual+turn+inhibitory,visual,mod,thrust,stop_candidate,0.55,2
+DNbe004,walk,stim,0.3,visual.weak bilateral/walk,parked,visual.weak+wind.weak|lr:bilateral|n:3,loom+wind+visual+walk+inhibitory,visual,weak,thrust,stop_candidate,0.55,2
+DNg102,escape,stim,0.3,parked primary=loom.weak,parked,loom.weak+odor.weak|lr:lateralized|n:2,loom+odor+turn+inhibitory,loom,weak,thrust,stop_candidate,0.55,4
+DNg105,escape,stim,0.3,parked primary=loom.weak,parked,loom.weak|lr:bilateral|n:1,loom+inhibitory,loom,weak,thrust,stop_candidate,0.55,2
+DNg108,escape,stim,0.3,parked primary=loom.weak,parked,loom.weak+wind.weak|lr:bilateral|n:2,loom+wind+inhibitory,loom,weak,thrust,stop_candidate,0.55,2
+DNg111,odor,stim,0.3,parked primary=odor.weak,parked,odor.weak+visual.weak|lr:lateralized|n:3,odor+taste+visual+turn+inhibitory,odor,weak,thrust,stop_candidate,0.55,2
+DNg20,odor,stim,0.3,parked primary=odor.weak,parked,odor.weak|lr:lateralized|n:1,odor+turn+inhibitory,odor,weak,thrust,stop_candidate,0.55,2
+DNg27,taste,stim,0.3,parked primary=taste.weak,parked,taste.weak|lr:bilateral|n:1,taste+inhibitory,taste,weak,thrust,stop_candidate,0.55,2
+DNg28,odor,stim,0.3,parked primary=odor.weak,parked,odor.weak|lr:none|n:1,odor+inhibitory,odor,weak,thrust,stop_candidate,0.55,4
+DNg42,wind,stim,0.3,parked primary=wind.weak,parked,wind.weak+visual.weak|lr:lateralized|n:3,loom+wind+visual+turn+inhibitory,wind,weak,thrust,stop_candidate,0.55,2
+DNg44,escape,stim,0.3,parked primary=loom.weak,parked,loom.weak|lr:lateralized|n:1,loom+turn+inhibitory,loom,weak,thrust,stop_candidate,0.55,2
+DNg52,escape,stim,0.3,parked primary=loom.weak,parked,loom.weak+visual.weak|lr:mixed|n:3,loom+odor+visual+inhibitory,loom,weak,thrust,stop_candidate,0.55,4
+DNg55,escape,stim,0.3,parked primary=loom.weak,parked,loom.weak+odor.weak|lr:bilateral|n:3,loom+odor+visual+inhibitory,loom,weak,thrust,stop_candidate,0.55,1
+DNg74_a,thrust,hand,1.0,hand _DN_ROLE=thrust,parked,loom.weak|lr:lateralized|n:1,loom+turn+inhibitory,loom,weak,thrust,stop_candidate,0.55,2
+DNg74_b,escape,stim,0.3,parked primary=loom.weak,parked,loom.weak|lr:mixed|n:1,loom+inhibitory,loom,weak,thrust,stop_candidate,0.55,2
+DNg83,wind,stim,0.3,parked primary=wind.weak,parked,wind.weak|lr:lateralized|n:1,wind+turn+inhibitory,wind,weak,thrust,stop_candidate,0.55,2
+DNg89,wind,stim,0.3,parked primary=wind.weak,parked,wind.weak|lr:mixed|n:1,wind+inhibitory,wind,weak,thrust,stop_candidate,0.55,2
+DNg90,steer,stim,0.4,visual.mod lateralized/turn,parked,visual.mod+wind.weak|lr:lateralized|n:2,wind+visual+turn+inhibitory,visual,mod,thrust,stop_candidate,0.55,2
+DNg96,taste,stim,0.3,parked primary=taste.weak,parked,taste.weak|lr:lateralized|n:1,taste+turn+inhibitory,taste,weak,thrust,stop_candidate,0.55,2
+DNge026,wind,stim,0.3,parked primary=wind.weak,parked,wind.weak|lr:lateralized|n:1,wind+turn+inhibitory,wind,weak,steer,stop_candidate,0.55,2
+DNge029,wind,stim,0.3,parked primary=wind.weak,parked,wind.weak|lr:mixed|n:1,wind+inhibitory,wind,weak,steer,stop_candidate,0.55,2
+DNge033,steer,stim,0.3,visual.weak lateralized/turn,parked,visual.weak|lr:lateralized|n:1,visual+turn+inhibitory,visual,weak,steer,stop_candidate,0.55,2
+DNge063,escape,stim,0.3,parked primary=loom.weak,parked,loom.weak+odor.weak|lr:lateralized|n:2,loom+odor+turn+inhibitory,loom,weak,steer,stop_candidate,0.55,2
+DNge068,odor,stim,0.3,parked primary=odor.weak,parked,odor.weak|lr:lateralized|n:1,odor+turn+inhibitory,odor,weak,steer,stop_candidate,0.55,2
+DNge069,escape,stim,0.3,parked primary=loom.weak,parked,loom.weak+odor.weak|lr:lateralized|n:2,loom+odor+turn+inhibitory,loom,weak,steer,stop_candidate,0.55,2
+DNge076,taste,stim,0.3,parked primary=taste.weak,parked,taste.weak|lr:bilateral|n:1,taste+inhibitory,taste,weak,steer,stop_candidate,0.55,2
+DNge096,taste,stim,0.3,parked primary=taste.weak,parked,taste.weak|lr:bilateral|n:1,taste+inhibitory,taste,weak,steer,stop_candidate,0.55,2
+DNge104,escape,stim,0.3,parked primary=loom.weak,parked,loom.weak|lr:none|n:1,loom+inhibitory,loom,weak,steer,stop_candidate,0.55,2
+DNge123,wind,stim,0.3,parked primary=wind.weak,parked,wind.weak|lr:lateralized|n:1,wind+turn+inhibitory,wind,weak,steer,stop_candidate,0.55,2
+DNge127,steer,stim,0.27,visual.weak → steer,parked,visual.weak|lr:none|n:1,visual+inhibitory,visual,weak,steer,stop_candidate,0.55,2
+DNge134,odor,stim,0.3,parked primary=odor.weak,parked,odor.weak+visual.weak|lr:lateralized|n:2,odor+visual+turn+inhibitory,odor,weak,steer,stop_candidate,0.55,2
+DNge135,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:mixed|n:0,inhibitory,none,none,steer,stop_candidate,0.55,2
+DNge136,escape,stim,0.3,parked primary=loom.weak,parked,loom.weak+odor.weak|lr:mixed|n:3,loom+odor+visual+inhibitory,loom,weak,steer,stop_candidate,0.55,4
+DNge143,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:bilateral|n:0,walk+inhibitory,none,none,steer,stop_candidate,0.55,2
+DNge146,taste,stim,0.3,parked primary=taste.weak,parked,taste.weak|lr:lateralized|n:1,taste+turn+inhibitory,taste,weak,steer,stop_candidate,0.55,2
+DNge152,steer,stim,0.27,visual.weak → steer,parked,visual.weak+odor.weak|lr:mixed|n:2,odor+visual+inhibitory,visual,weak,steer,stop_candidate,0.55,1
+DNp49,odor,stim,0.3,parked primary=odor.weak,parked,odor.weak+visual.weak|lr:mixed|n:3,odor+wind+visual+inhibitory,odor,weak,steer,stop_candidate,0.55,2
+DNp59,odor,stim,0.3,parked primary=odor.weak,parked,odor.weak+visual.weak|lr:bilateral|n:2,odor+visual+inhibitory,odor,weak,steer,stop_candidate,0.55,2
+DNp65,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:mixed|n:0,inhibitory,none,none,steer,stop_candidate,0.55,2
+DNpe010,steer,stim,0.3,visual.weak lateralized/turn,parked,visual.weak|lr:lateralized|n:1,visual+turn+inhibitory,visual,weak,brake,stop_candidate,0.55,2
+DNpe031,escape,stim,0.3,parked primary=loom.weak,parked,loom.weak+visual.weak|lr:lateralized|n:3,loom+odor+visual+turn+inhibitory,loom,weak,brake,stop_candidate,0.55,4
+DNg103,taste,curated,1.0,curated_role=taste_contact,taste_contact,taste.strong|lr:lateralized|n:1,taste+turn+inhibitory,taste,strong,thrust,taste_modulated,0.9,2
+DNg67,taste,curated,1.0,curated_role=taste_contact,taste_contact,taste.strong|lr:lateralized|n:1,taste+turn,taste,strong,thrust,taste_modulated,0.9,2
+DNge031,taste,curated,1.0,curated_role=taste_contact,taste_contact,taste.strong|lr:lateralized|n:1,taste+turn+inhibitory,taste,strong,steer,taste_modulated,0.9,2
+DNge098,taste,curated,1.0,curated_role=taste_contact,taste_contact,taste.strong|lr:lateralized|n:1,taste+turn+inhibitory,taste,strong,steer,taste_modulated,0.9,2
+DNpe030,taste,curated,1.0,curated_role=taste_contact,taste_contact,taste.strong|lr:lateralized|n:1,taste+turn,taste,strong,brake,taste_modulated,0.9,2
+DNge009,taste,curated,1.0,curated_role=taste_contact,taste_contact,taste.mod|lr:bilateral|n:1,taste,taste,mod,steer,taste_modulated,0.8266090141795895,2
+DNp44,taste,stim,0.4,parked primary=taste.mod,parked,taste.mod+odor.mod|lr:lateralized|n:3,odor+taste+visual+turn,taste,mod,steer,taste_modulated,0.8196592913635371,2
+DNg30,taste,stim,0.4,parked primary=taste.mod,parked,taste.mod|lr:lateralized|n:1,taste+turn,taste,mod,thrust,taste_modulated,0.794028395167399,2
+DNg31,taste,stim,0.4,parked primary=taste.mod,parked,taste.mod|lr:lateralized|n:1,taste+turn+inhibitory,taste,mod,thrust,taste_modulated,0.7934897573084498,2
+DNg60,taste,stim,0.4,parked primary=taste.mod,parked,taste.mod|lr:lateralized|n:1,taste+turn+inhibitory,taste,mod,thrust,taste_modulated,0.7910134392098737,2
+DNge023,taste,stim,0.4,parked primary=taste.mod,parked,taste.mod|lr:lateralized|n:1,taste+turn,taste,mod,steer,taste_modulated,0.7895373636061539,2
+DNge101,taste,stim,0.4,parked primary=taste.mod,parked,taste.mod+odor.mod|lr:lateralized|n:2,odor+taste+turn+inhibitory,taste,mod,steer,taste_modulated,0.7811959590987548,2
+DNge065,taste,curated,1.0,curated_role=taste_contact,taste_contact,taste.mod+odor.mod|lr:lateralized|n:2,odor+taste+turn+inhibitory,taste,mod,steer,taste_modulated,0.7748939505464868,2
+DNpe006,taste,stim,0.4,parked primary=taste.mod,parked,taste.mod+visual.weak|lr:lateralized|n:3,odor+taste+visual+turn,taste,mod,brake,taste_modulated,0.7743890792210857,2
+DNp25,taste,stim,0.4,parked primary=taste.mod,parked,taste.mod+odor.mod|lr:lateralized|n:3,odor+taste+visual+turn,taste,mod,steer,taste_modulated,0.7734694685312706,2
+DNg47,taste,curated,1.0,curated_role=taste_contact,taste_contact,taste.mod|lr:lateralized|n:1,taste+turn,taste,mod,thrust,taste_modulated,0.7721327337302456,2
+DNg68,taste,curated,1.0,curated_role=taste_contact,taste_contact,taste.mod+odor.mod|lr:lateralized|n:2,odor+taste+turn,taste,mod,thrust,taste_modulated,0.7681351219238884,2
+DNge142,taste,curated,1.0,curated_role=taste_contact,taste_contact,taste.mod+odor.weak|lr:lateralized|n:3,loom+odor+taste+turn,taste,mod,steer,taste_modulated,0.7576777555725926,2
+DNge080,taste,stim,0.4,parked primary=taste.mod,parked,taste.mod|lr:lateralized|n:1,taste+turn,taste,mod,steer,taste_modulated,0.756200397355744,2
+DNpe007,taste,curated,1.0,curated_role=taste_contact,taste_contact,taste.mod|lr:lateralized|n:1,taste+turn,taste,mod,brake,taste_modulated,0.7529047109356786,2
+DNge042,taste,stim,0.4,parked primary=taste.mod,parked,taste.mod|lr:lateralized|n:1,taste+turn,taste,mod,steer,taste_modulated,0.7499175784919337,2
+DNge051,taste,stim,0.4,parked primary=taste.mod,parked,taste.mod|lr:bilateral|n:1,taste+inhibitory,taste,mod,steer,taste_modulated,0.7480958475896332,2
+DNp58,taste,stim,0.4,parked primary=taste.mod,parked,taste.mod+odor.weak|lr:bilateral|n:2,odor+taste,taste,mod,steer,taste_modulated,0.7475888530366214,2
+DNd04,taste,curated,1.0,curated_role=taste_contact,taste_contact,taste.mod+odor.weak|lr:lateralized|n:2,odor+taste+turn+inhibitory,taste,mod,generic,taste_modulated,0.7456117019445957,2
+DNge173,taste,stim,0.4,parked primary=taste.mod,parked,taste.mod+odor.weak|lr:lateralized|n:2,odor+taste+turn,taste,mod,steer,taste_modulated,0.7448285183155707,2
+DNge174,taste,curated,1.0,curated_role=taste_contact,taste_contact,taste.mod|lr:lateralized|n:1,taste+turn,taste,mod,steer,taste_modulated,0.7418740672308733,2
+DNge106,taste,stim,0.4,parked primary=taste.mod,parked,taste.mod|lr:lateralized|n:1,taste+turn,taste,mod,steer,taste_modulated,0.7404640066444759,2
+DNg70,taste,curated,1.0,curated_role=taste_contact,taste_contact,taste.mod|lr:lateralized|n:1,taste+turn+inhibitory,taste,mod,thrust,taste_modulated,0.7404305220479878,2
+DNge147,taste,stim,0.4,parked primary=taste.mod,parked,taste.mod+loom.weak|lr:mixed|n:3,loom+odor+taste,taste,mod,steer,taste_modulated,0.7371204449292252,2
+DNde001,taste,curated,1.0,curated_role=taste_contact,taste_contact,taste.mod+odor.mod|lr:mixed|n:3,odor+taste+visual+inhibitory,taste,mod,generic,taste_modulated,0.7317883116432048,2
+DNge062,taste,stim,0.4,parked primary=taste.mod,parked,taste.mod|lr:lateralized|n:1,taste+turn,taste,mod,steer,taste_modulated,0.7239098479399342,2
+DNge034,taste,curated,1.0,curated_role=taste_contact,taste_contact,taste.mod|lr:mixed|n:1,taste+inhibitory,taste,mod,steer,taste_modulated,0.7228809188431703,2
+DNg38,taste,stim,0.4,parked primary=taste.mod,parked,taste.mod|lr:lateralized|n:1,taste+turn,taste,mod,thrust,taste_modulated,0.7227986220082386,2
+DNge057,taste,stim,0.4,parked primary=taste.mod,parked,taste.mod|lr:lateralized|n:1,taste+turn,taste,mod,steer,taste_modulated,0.7210061573514885,2
+DNge038,taste,curated,1.0,curated_role=taste_contact,taste_contact,taste.mod+loom.weak|lr:mixed|n:3,loom+wind+taste,taste,mod,steer,taste_modulated,0.7160222745620928,2
+DNg98,taste,stim,0.4,parked primary=taste.mod,parked,taste.mod+loom.weak|lr:mixed|n:3,loom+odor+taste+inhibitory,taste,mod,thrust,taste_modulated,0.6994676461667143,2
+DNpe049,taste,curated,1.0,curated_role=taste_contact,taste_contact,taste.mod+odor.weak|lr:lateralized|n:2,odor+taste+turn,taste,mod,brake,taste_modulated,0.6908660079009443,2
+DNde006,wind,stim,0.3,parked primary=wind.weak,parked,wind.weak+taste.weak|lr:lateralized|n:2,wind+taste+turn+inhibitory,wind,weak,generic,taste_modulated,0.58,2
+DNge046,taste,stim,0.3,parked primary=taste.weak,parked,taste.weak|lr:lateralized|n:1,taste+turn+inhibitory,taste,weak,steer,taste_modulated,0.58,4
+DNge060,taste,stim,0.3,parked primary=taste.weak,parked,taste.weak|lr:lateralized|n:1,taste+turn+inhibitory,taste,weak,steer,taste_modulated,0.58,2
+DNge139,taste,stim,0.3,parked primary=taste.weak,parked,taste.weak|lr:lateralized|n:1,taste+turn,taste,weak,steer,taste_modulated,0.58,2
+DNge018,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,silent,none,none,steer,taste_modulated,0.5242990654205607,2
+DNg34,steer,stim,0.3,visual.weak lateralized/turn,parked,visual.weak|lr:lateralized|n:1,visual+turn,visual,weak,thrust,turn_bias,0.8999999999999999,2
+DNge045,wind,stim,0.3,parked primary=wind.weak,parked,wind.weak+visual.weak|lr:lateralized|n:2,wind+visual+turn,wind,weak,steer,turn_bias,0.8999999999999999,2
+DNge087,steer,stim,0.4,visual.mod lateralized/turn,parked,visual.mod+taste.weak|lr:lateralized|n:2,taste+visual+turn+inhibitory,visual,mod,steer,turn_bias,0.8999999999999999,4
+DNge094,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.mod|lr:lateralized|n:3,odor+wind+visual+turn,wind,mod,steer,turn_bias,0.8999999999999999,14
+DNge126,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.mod|lr:lateralized|n:2,wind+visual+turn,wind,mod,steer,turn_bias,0.8999999999999999,2
+DNp09,escape,curated,1.0,curated_role=escape,escape,loom.mod+visual.weak|lr:lateralized|n:2,loom+visual+turn,loom,mod,steer,turn_bias,0.8999999999999999,2
+DNp31,steer,stim,0.4,visual.mod lateralized/turn,parked,visual.mod+wind.mod|lr:lateralized|n:4,loom+odor+wind+visual+turn,visual,mod,steer,turn_bias,0.8999999999999999,2
+DNpe008,steer,stim,0.4,visual.mod lateralized/turn,parked,visual.mod+wind.weak|lr:lateralized|n:2,wind+visual+turn,visual,mod,brake,turn_bias,0.8999999999999999,18
+DNpe011,steer,stim,0.4,visual.mod lateralized/turn,parked,visual.mod+wind.mod|lr:lateralized|n:2,wind+visual+turn,visual,mod,brake,turn_bias,0.899806029076604,7
+DNg36_b,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.mod|lr:lateralized|n:2,wind+visual+turn,wind,mod,thrust,turn_bias,0.8955194253818072,5
+DNp15,steer,stim,0.4,visual.mod lateralized/turn,parked,visual.mod+wind.weak|lr:lateralized|n:2,wind+visual+turn,visual,mod,steer,turn_bias,0.880943638997985,2
+DNge114,steer,stim,0.4,visual.mod lateralized/turn,parked,visual.mod+wind.mod|lr:lateralized|n:2,wind+visual+turn,visual,mod,steer,turn_bias,0.8787421768220169,6
+DNpe054,steer,stim,0.4,visual.mod lateralized/turn,parked,visual.mod+wind.weak|lr:lateralized|n:2,wind+visual+turn,visual,mod,brake,turn_bias,0.8781910285075986,8
+DNp17,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.mod|lr:lateralized|n:2,wind+visual+turn,wind,mod,steer,turn_bias,0.8750326072853077,12
+DNp27,steer,stim,0.4,visual.mod lateralized/turn,parked,visual.mod+loom.mod|lr:lateralized|n:3,loom+odor+visual+turn,visual,mod,steer,turn_bias,0.8306982190847843,2
+DNa06,steer,stim,0.3,visual.weak lateralized/turn,parked,visual.weak|lr:lateralized|n:1,visual+turn,visual,weak,steer,turn_bias,0.8277778238204967,2
+DNge085,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.mod|lr:lateralized|n:2,wind+visual+turn,wind,mod,steer,turn_bias,0.7746613806023682,11
+DNg02_b,steer,stim,0.4,visual.mod lateralized/turn,parked,visual.mod+wind.weak|lr:lateralized|n:3,odor+wind+visual+turn,visual,mod,thrust,turn_bias,0.7734503206258877,7
+DNg46,steer,stim,0.4,visual.mod lateralized/turn,parked,visual.mod+wind.weak|lr:lateralized|n:2,wind+visual+turn+inhibitory,visual,mod,thrust,turn_bias,0.7665167893705797,2
+DNp02,steer,stim,0.4,visual.mod lateralized/turn,parked,visual.mod+wind.mod|lr:lateralized|n:4,loom+odor+wind+visual+turn,visual,mod,steer,turn_bias,0.7613361909035924,2
+DNde002,steer,stim,0.3,visual.weak lateralized/turn,parked,visual.weak+odor.weak|lr:lateralized|n:2,odor+visual+turn,visual,weak,generic,turn_bias,0.7475095112768778,2
+DNpe023,steer,stim,0.3,visual.weak lateralized/turn,parked,visual.weak|lr:lateralized|n:1,visual+turn,visual,weak,brake,turn_bias,0.7279117127721377,2
+DNp08,steer,stim,0.3,visual.weak lateralized/turn,parked,visual.weak+odor.weak|lr:lateralized|n:4,loom+odor+wind+visual+turn+inhibitory,visual,weak,steer,turn_bias,0.7266261099601499,2
+DNd03,steer,stim,0.4,visual.mod lateralized/turn,parked,visual.mod+odor.weak|lr:lateralized|n:2,odor+visual+turn,visual,mod,generic,turn_bias,0.7073688915426982,2
+DNb03,steer,stim,0.4,visual.mod lateralized/turn,parked,visual.mod|lr:lateralized|n:1,visual+turn,visual,mod,thrust,turn_bias,0.7061572429489227,4
+DNpe009,steer,stim,0.4,visual.mod lateralized/turn,parked,visual.mod+wind.weak|lr:lateralized|n:3,loom+wind+visual+turn,visual,mod,brake,turn_bias,0.7008066395919059,8
+DNp63,wind,stim,0.3,parked primary=wind.weak,parked,wind.weak+visual.weak|lr:lateralized|n:2,wind+visual+turn,wind,weak,steer,turn_bias,0.6866944836320819,2
+DNge040,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:lateralized|n:0,turn+inhibitory,none,none,steer,turn_bias,0.6855119910835868,2
+DNge006,steer,stim,0.3,visual.weak lateralized/turn,parked,visual.weak|lr:lateralized|n:1,visual+turn,visual,weak,steer,turn_bias,0.6621372160621611,2
+DNpe013,steer,stim,0.4,visual.mod lateralized/turn,parked,visual.mod+wind.weak|lr:lateralized|n:2,wind+visual+turn,visual,mod,brake,turn_bias,0.647325192812124,2
+DNb07,steer,stim,0.3,visual.weak lateralized/turn,parked,visual.weak|lr:lateralized|n:1,visual+turn+inhibitory,visual,weak,thrust,turn_bias,0.6392299364556232,2
+DNa02,steer,hand,1.0,hand _DN_ROLE=steer,parked,visual.weak+odor.weak|lr:lateralized|n:2,odor+visual+turn,visual,weak,steer,unknown,0.35,2
+DNa03,steer,hand,1.0,hand _DN_ROLE=steer,parked,visual.weak|lr:lateralized|n:1,visual+turn,visual,weak,steer,unknown,0.35,2
+DNa11,steer,stim,0.3,visual.weak lateralized/turn,parked,visual.weak+odor.weak|lr:lateralized|n:2,odor+visual+turn,visual,weak,steer,unknown,0.35,2
+DNa15,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:lateralized|n:0,turn,none,none,steer,unknown,0.35,2
+DNa16,wind,stim,0.3,parked primary=wind.weak,parked,wind.weak|lr:lateralized|n:1,wind+turn,wind,weak,steer,unknown,0.35,2
+DNae005,steer,stim,0.3,visual.weak lateralized/turn,parked,visual.weak+odor.weak|lr:lateralized|n:2,odor+visual+turn,visual,weak,steer,unknown,0.35,2
+DNae007,odor,stim,0.3,parked primary=odor.weak,parked,odor.weak+visual.weak|lr:lateralized|n:3,odor+wind+visual+turn,odor,weak,steer,unknown,0.35,2
+DNbe003,steer,stim,0.3,visual.weak lateralized/turn,parked,visual.weak+odor.weak|lr:lateralized|n:2,odor+visual+turn,visual,weak,thrust,unknown,0.35,2
+DNd05,steer,stim,0.3,visual.weak lateralized/turn,parked,visual.weak+odor.weak|lr:lateralized|n:3,loom+odor+visual+turn,visual,weak,generic,unknown,0.35,2
+DNde003,taste,stim,0.3,parked primary=taste.weak,parked,taste.weak|lr:lateralized|n:1,taste+turn,taste,weak,generic,unknown,0.35,4
+DNde005,steer,stim,0.3,visual.weak lateralized/turn,parked,visual.weak+wind.weak|lr:lateralized|n:3,odor+wind+visual+turn,visual,weak,generic,unknown,0.35,2
+DNde007,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,inhibitory,none,none,generic,unknown,0.35,2
+DNg04,wind,stim,0.3,parked primary=wind.weak,parked,wind.weak|lr:lateralized|n:1,wind+turn,wind,weak,thrust,unknown,0.35,4
+DNg100,thrust,hand,1.0,hand _DN_ROLE=thrust,parked,loom.weak|lr:none|n:1,loom,loom,weak,thrust,unknown,0.35,2
+DNg104,odor,stim,0.3,parked primary=odor.weak,parked,odor.weak+visual.weak|lr:lateralized|n:2,odor+visual+turn,odor,weak,thrust,unknown,0.35,2
+DNg107,taste,stim,0.3,parked primary=taste.weak,parked,taste.weak|lr:lateralized|n:1,taste+turn,taste,weak,thrust,unknown,0.35,2
+DNg12_e,wind,stim,0.3,parked primary=wind.weak,parked,wind.weak|lr:lateralized|n:1,wind+turn,wind,weak,thrust,unknown,0.35,8
+DNg14,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,silent,none,none,thrust,unknown,0.35,2
+DNg16,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,silent,none,none,thrust,unknown,0.35,2
+DNg21,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,silent,none,none,thrust,unknown,0.35,2
+DNg23,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,inhibitory,none,none,thrust,unknown,0.35,2
+DNg48,taste,stim,0.3,parked primary=taste.weak,parked,taste.weak|lr:lateralized|n:1,taste+turn,taste,weak,thrust,unknown,0.35,2
+DNg54,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,silent,none,none,thrust,unknown,0.35,2
+DNg59,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,silent,none,none,thrust,unknown,0.35,2
+DNg65,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,silent,none,none,thrust,unknown,0.35,2
+DNg69,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,silent,none,none,thrust,unknown,0.35,2
+DNg73,taste,stim,0.3,parked primary=taste.weak,parked,taste.weak|lr:lateralized|n:1,taste+turn,taste,weak,thrust,unknown,0.35,2
+DNg75,thrust,hand,1.0,hand _DN_ROLE=thrust,parked,visual.weak|lr:lateralized|n:1,visual+turn,visual,weak,thrust,unknown,0.35,2
+DNg77,taste,stim,0.3,parked primary=taste.weak,parked,taste.weak|lr:lateralized|n:1,taste+turn,taste,weak,thrust,unknown,0.35,2
+DNg79,steer,stim,0.4,visual.mod lateralized/turn,parked,visual.mod+loom.weak|lr:lateralized|n:4,loom+odor+wind+visual+turn,visual,mod,thrust,unknown,0.35,4
+DNg82,steer,stim,0.4,visual.mod lateralized/turn,parked,visual.mod+loom.mod|lr:lateralized|n:3,loom+wind+visual+turn,visual,mod,thrust,unknown,0.35,4
+DNg85,taste,stim,0.3,parked primary=taste.weak,parked,taste.weak+wind.weak|lr:lateralized|n:2,wind+taste+turn,taste,weak,thrust,unknown,0.35,2
+DNg87,wind,stim,0.3,parked primary=wind.weak,parked,wind.weak|lr:lateralized|n:1,wind+turn,wind,weak,thrust,unknown,0.35,2
+DNg93,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,silent,none,none,thrust,unknown,0.35,2
+DNge001,taste,stim,0.3,parked primary=taste.weak,parked,taste.weak|lr:lateralized|n:1,taste+turn,taste,weak,steer,unknown,0.35,4
+DNge003,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,silent,none,none,steer,unknown,0.35,2
+DNge004,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,inhibitory,none,none,steer,unknown,0.35,2
+DNge007,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,silent,none,none,steer,unknown,0.35,2
+DNge008,odor,stim,0.3,parked primary=odor.weak,parked,odor.weak|lr:lateralized|n:1,odor+turn,odor,weak,steer,unknown,0.35,2
+DNge013,wind,stim,0.3,parked primary=wind.weak,parked,wind.weak|lr:lateralized|n:1,wind+turn,wind,weak,steer,unknown,0.35,2
+DNge021,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,silent,none,none,steer,unknown,0.35,2
+DNge022,wind,stim,0.3,parked primary=wind.weak,parked,wind.weak+taste.weak|lr:lateralized|n:2,wind+taste+turn,wind,weak,steer,unknown,0.35,2
+DNge025,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,silent,none,none,steer,unknown,0.35,2
+DNge027,wind,stim,0.3,parked primary=wind.weak,parked,wind.weak|lr:none|n:1,wind,wind,weak,steer,unknown,0.35,2
+DNge028,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,silent,none,none,steer,unknown,0.35,2
+DNge032,escape,stim,0.3,parked primary=loom.weak,parked,loom.weak|lr:none|n:1,loom,loom,weak,steer,unknown,0.35,2
+DNge035,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,silent,none,none,steer,unknown,0.35,2
+DNge037,steer,hand,1.0,hand _DN_ROLE=steer,parked,odor.weak|lr:lateralized|n:1,odor+turn,odor,weak,steer,unknown,0.35,2
+DNge044,wind,stim,0.3,parked primary=wind.weak,parked,wind.weak|lr:lateralized|n:1,wind+turn,wind,weak,steer,unknown,0.35,2
+DNge047,odor,stim,0.3,parked primary=odor.weak,parked,odor.weak+visual.weak|lr:lateralized|n:2,odor+visual+turn,odor,weak,steer,unknown,0.35,2
+DNge052,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,inhibitory,none,none,steer,unknown,0.35,2
+DNge056,odor,stim,0.3,parked primary=odor.weak,parked,odor.weak|lr:lateralized|n:1,odor+turn,odor,weak,steer,unknown,0.35,2
+DNge058,steer,stim,0.3,visual.weak lateralized/turn,parked,visual.weak+loom.weak|lr:lateralized|n:2,loom+visual+turn,visual,weak,steer,unknown,0.35,2
+DNge064,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,silent,none,none,steer,unknown,0.35,2
+DNge067,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,inhibitory,none,none,steer,unknown,0.35,2
+DNge070,steer,stim,0.4,visual.mod lateralized/turn,parked,visual.mod+wind.mod|lr:lateralized|n:2,wind+visual+turn,visual,mod,steer,unknown,0.35,2
+DNge072,steer,stim,0.27,visual.weak → steer,parked,visual.weak|lr:none|n:1,visual,visual,weak,steer,unknown,0.35,2
+DNge077,odor,stim,0.3,parked primary=odor.weak,parked,odor.weak|lr:none|n:1,odor,odor,weak,steer,unknown,0.35,2
+DNge079,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,silent,none,none,steer,unknown,0.35,2
+DNge081,odor,stim,0.3,parked primary=odor.weak,parked,odor.weak|lr:lateralized|n:1,odor+turn,odor,weak,steer,unknown,0.35,2
+DNge103,steer,stim,0.3,visual.weak lateralized/turn,parked,visual.weak+odor.weak|lr:lateralized|n:3,loom+odor+visual+turn,visual,weak,steer,unknown,0.35,2
+DNge110,steer,stim,0.27,visual.weak → steer,parked,visual.weak|lr:none|n:1,visual,visual,weak,steer,unknown,0.35,2
+DNge121,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,silent,none,none,steer,unknown,0.35,2
+DNge122,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,inhibitory,none,none,steer,unknown,0.35,2
+DNge129,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,inhibitory,none,none,steer,unknown,0.35,2
+DNge130,taste,stim,0.3,parked primary=taste.weak,parked,taste.weak+loom.weak|lr:lateralized|n:2,loom+taste+turn,taste,weak,steer,unknown,0.35,2
+DNge137,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,silent,none,none,steer,unknown,0.35,2
+DNge144,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,silent,none,none,steer,unknown,0.35,2
+DNge156,walk,stim,0.3,visual.weak bilateral/walk,parked,visual.weak|lr:bilateral|n:1,visual,visual,weak,steer,unknown,0.35,1
+DNp101,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,silent,none,none,steer,unknown,0.35,2
+DNp102,walk,stim,0.4,visual.mod bilateral/walk,parked,visual.mod+wind.mod|lr:bilateral|n:4,loom+odor+wind+visual+walk,visual,mod,steer,unknown,0.35,2
+DNp23,escape,stim,0.3,parked primary=loom.weak,parked,loom.weak|lr:lateralized|n:1,loom+turn,loom,weak,steer,unknown,0.35,2
+DNp26,steer,stim,0.36000000000000004,visual.mod → steer,parked,visual.mod+wind.mod|lr:mixed|n:4,loom+odor+wind+visual,visual,mod,steer,unknown,0.35,2
+DNp60,escape,stim,0.3,parked primary=loom.weak,parked,loom.weak|lr:lateralized|n:1,loom+turn,loom,weak,steer,unknown,0.35,2
+DNp66,escape,stim,0.3,parked primary=loom.weak,parked,loom.weak+wind.weak|lr:lateralized|n:4,loom+odor+wind+visual+turn,loom,weak,steer,unknown,0.35,2
+DNp67,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,silent,none,none,steer,unknown,0.35,2
+DNp69,escape,stim,0.3,parked primary=loom.weak,parked,loom.weak+visual.weak|lr:lateralized|n:3,loom+odor+visual+turn,loom,weak,steer,unknown,0.35,2
+DNpe004,walk,stim,0.4,visual.mod bilateral/walk,parked,visual.mod+wind.mod|lr:bilateral|n:2,wind+visual+walk,visual,mod,brake,unknown,0.35,2
+DNpe005,wind,stim,0.3,parked primary=wind.weak,parked,wind.weak+visual.weak|lr:lateralized|n:3,odor+wind+visual+turn,wind,weak,brake,unknown,0.35,2
+DNpe018,walk,stim,0.4,visual.mod bilateral/walk,parked,visual.mod+wind.mod|lr:bilateral|n:3,loom+wind+visual+walk,visual,mod,brake,unknown,0.35,2
+DNpe037,steer,stim,0.3,visual.weak lateralized/turn,parked,visual.weak+wind.weak|lr:lateralized|n:2,wind+visual+turn,visual,weak,brake,unknown,0.35,2
+DNpe039,steer,stim,0.27,visual.weak → brake,parked,visual.weak|lr:none|n:1,visual,visual,weak,brake,unknown,0.35,2
+DNpe050,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:none|n:0,silent,none,none,brake,unknown,0.35,2
+DNpe052,odor,stim,0.3,parked primary=odor.weak,parked,odor.weak+loom.weak|lr:lateralized|n:2,loom+odor+turn,odor,weak,brake,unknown,0.35,2
+DNa01,walk,stim,0.3,visual.weak bilateral/walk,parked,visual.weak+loom.weak|lr:bilateral|n:2,loom+visual+walk,visual,weak,steer,walk_speed,0.58,2
+DNa04,escape,stim,0.3,parked primary=loom.weak,parked,loom.weak+visual.weak|lr:bilateral|n:3,loom+wind+visual,loom,weak,steer,walk_speed,0.58,2
+DNa09,walk,stim,0.3,visual.weak bilateral/walk,parked,visual.weak+wind.weak|lr:bilateral|n:2,wind+visual+walk,visual,weak,steer,walk_speed,0.58,2
+DNa13,steer,stim,0.27,visual.weak → steer,parked,visual.weak+loom.weak|lr:mixed|n:2,loom+visual,visual,weak,steer,walk_speed,0.58,4
+DNa14,wind,stim,0.3,parked primary=wind.weak,parked,wind.weak+odor.weak|lr:bilateral|n:3,odor+wind+visual,wind,weak,steer,walk_speed,0.58,2
+DNae001,walk,stim,0.3,visual.weak bilateral/walk,parked,visual.weak+odor.weak|lr:bilateral|n:2,odor+visual+walk,visual,weak,steer,walk_speed,0.58,2
+DNae003,wind,stim,0.3,parked primary=wind.weak,parked,wind.weak+visual.weak|lr:bilateral|n:2,wind+visual,wind,weak,steer,walk_speed,0.58,2
+DNae008,walk,stim,0.4,visual.mod bilateral/walk,parked,visual.mod+wind.weak|lr:bilateral|n:3,odor+wind+visual+walk,visual,mod,steer,walk_speed,0.58,2
+DNb02,wind,stim,0.3,parked primary=wind.weak,parked,wind.weak+visual.weak|lr:mixed|n:2,wind+visual,wind,weak,thrust,walk_speed,0.58,4
+DNb08,odor,stim,0.3,parked primary=odor.weak,parked,odor.weak+visual.weak|lr:mixed|n:2,odor+visual,odor,weak,thrust,walk_speed,0.58,4
+DNbe006,walk,stim,0.3,visual.weak bilateral/walk,parked,visual.weak+odor.weak|lr:bilateral|n:2,odor+visual+walk,visual,weak,thrust,walk_speed,0.58,2
+DNg02_c,thrust,stim,0.27,visual.weak → thrust,parked,visual.weak+wind.weak|lr:mixed|n:2,wind+visual,visual,weak,thrust,walk_speed,0.58,2
+DNg02_d,walk,stim,0.3,visual.weak bilateral/walk,parked,visual.weak+loom.weak|lr:bilateral|n:2,loom+visual+walk,visual,weak,thrust,walk_speed,0.58,2
+DNg02_e,wind,stim,0.3,parked primary=wind.weak,parked,wind.weak+visual.weak|lr:mixed|n:3,loom+wind+visual,wind,weak,thrust,walk_speed,0.58,2
+DNg02_f,walk,stim,0.3,visual.weak bilateral/walk,parked,visual.weak|lr:bilateral|n:1,visual+walk,visual,weak,thrust,walk_speed,0.58,2
+DNg02_g,wind,stim,0.3,parked primary=wind.weak,parked,wind.weak+visual.weak|lr:bilateral|n:2,wind+visual,wind,weak,thrust,walk_speed,0.58,2
+DNg02_h,wind,stim,0.3,parked primary=wind.weak,parked,wind.weak+visual.weak|lr:mixed|n:2,wind+visual,wind,weak,thrust,walk_speed,0.58,2
+DNg03,thrust,stim,0.27,visual.weak → thrust,parked,visual.weak+odor.weak|lr:mixed|n:3,loom+odor+visual,visual,weak,thrust,walk_speed,0.58,10
+DNg101,escape,stim,0.3,parked primary=loom.weak,parked,loom.weak|lr:mixed|n:1,loom,loom,weak,thrust,walk_speed,0.58,2
+DNg109,walk,stim,0.3,visual.weak bilateral/walk,parked,visual.weak+odor.weak|lr:bilateral|n:2,odor+visual+walk,visual,weak,thrust,walk_speed,0.58,2
+DNg12_a,taste,stim,0.3,parked primary=taste.weak,parked,taste.weak+wind.weak|lr:bilateral|n:2,wind+taste,taste,weak,thrust,walk_speed,0.58,8
+DNg12_c,wind,stim,0.3,parked primary=wind.weak,parked,wind.weak|lr:mixed|n:1,wind,wind,weak,thrust,walk_speed,0.58,6
+DNg12_d,wind,stim,0.3,parked primary=wind.weak,parked,wind.weak+visual.weak|lr:mixed|n:3,wind+taste+visual,wind,weak,thrust,walk_speed,0.58,2
+DNg13,walk,stim,0.3,visual.weak bilateral/walk,parked,visual.weak+odor.weak|lr:bilateral|n:2,odor+visual+walk,visual,weak,thrust,walk_speed,0.58,2
+DNg26,odor,stim,0.3,parked primary=odor.weak,parked,odor.weak|lr:bilateral|n:1,odor,odor,weak,thrust,walk_speed,0.58,4
+DNg41,thrust,stim,0.36000000000000004,visual.mod → thrust,parked,visual.mod+wind.weak|lr:mixed|n:2,wind+visual,visual,mod,thrust,walk_speed,0.58,2
+DNg43,thrust,stim,0.27,visual.weak → thrust,parked,visual.weak|lr:mixed|n:1,visual,visual,weak,thrust,walk_speed,0.58,2
+DNg49,thrust,stim,0.36000000000000004,visual.mod → thrust,parked,visual.mod+wind.weak|lr:mixed|n:2,wind+visual,visual,mod,thrust,walk_speed,0.58,2
+DNg50,odor,stim,0.3,parked primary=odor.weak,parked,odor.weak+visual.weak|lr:mixed|n:2,odor+visual,odor,weak,thrust,walk_speed,0.58,2
+DNg53,wind,stim,0.3,parked primary=wind.weak,parked,wind.weak+loom.weak|lr:bilateral|n:3,loom+wind+visual,wind,weak,thrust,walk_speed,0.58,2
+DNg58,thrust,stim,0.27,visual.weak → thrust,parked,visual.weak|lr:mixed|n:1,visual,visual,weak,thrust,walk_speed,0.58,2
+DNg66,odor,stim,0.3,parked primary=odor.weak,parked,odor.weak|lr:bilateral|n:1,odor,odor,weak,thrust,walk_speed,0.58,1
+DNg76,walk,stim,0.3,visual.weak bilateral/walk,parked,visual.weak+loom.weak|lr:bilateral|n:2,loom+visual+walk,visual,weak,thrust,walk_speed,0.58,2
+DNg78,thrust,stim,0.27,visual.weak → thrust,parked,visual.weak|lr:mixed|n:1,visual,visual,weak,thrust,walk_speed,0.58,2
+DNg80,taste,stim,0.3,parked primary=taste.weak,parked,taste.weak|lr:bilateral|n:1,taste,taste,weak,thrust,walk_speed,0.58,2
+DNg88,taste,stim,0.3,parked primary=taste.weak,parked,taste.weak|lr:bilateral|n:1,taste,taste,weak,thrust,walk_speed,0.58,2
+DNg91,escape,stim,0.3,parked primary=loom.weak,parked,loom.weak+visual.weak|lr:mixed|n:2,loom+visual,loom,weak,thrust,walk_speed,0.58,2
+DNg95,walk,stim,0.4,visual.mod bilateral/walk,parked,visual.mod+wind.weak|lr:bilateral|n:3,odor+wind+visual+walk,visual,mod,thrust,walk_speed,0.58,2
+DNg97,walk,stim,0.3,visual.weak bilateral/walk,parked,visual.weak+loom.weak|lr:bilateral|n:2,loom+visual+walk,visual,weak,thrust,walk_speed,0.58,2
+DNge002,taste,stim,0.3,parked primary=taste.weak,parked,taste.weak|lr:mixed|n:1,taste,taste,weak,steer,walk_speed,0.58,2
+DNge005,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:mixed|n:0,silent,none,none,steer,walk_speed,0.58,2
+DNge020,wind,stim,0.3,parked primary=wind.weak,parked,wind.weak|lr:bilateral|n:1,wind,wind,weak,steer,walk_speed,0.58,8
+DNge024,wind,stim,0.3,parked primary=wind.weak,parked,wind.weak+taste.weak|lr:mixed|n:2,wind+taste,wind,weak,steer,walk_speed,0.58,6
+DNge048,escape,stim,0.3,parked primary=loom.weak,parked,loom.weak|lr:mixed|n:1,loom,loom,weak,steer,walk_speed,0.58,2
+DNge049,escape,stim,0.3,parked primary=loom.weak,parked,loom.weak|lr:mixed|n:1,loom,loom,weak,steer,walk_speed,0.58,2
+DNge050,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:bilateral|n:0,walk,none,none,steer,walk_speed,0.58,2
+DNge053,escape,stim,0.3,parked primary=loom.weak,parked,loom.weak+odor.weak|lr:bilateral|n:2,loom+odor,loom,weak,steer,walk_speed,0.58,2
+DNge059,taste,stim,0.3,parked primary=taste.weak,parked,taste.weak|lr:mixed|n:1,taste,taste,weak,steer,walk_speed,0.58,2
+DNge073,escape,stim,0.3,parked primary=loom.weak,parked,loom.weak|lr:mixed|n:1,loom,loom,weak,steer,walk_speed,0.58,2
+DNge082,taste,stim,0.3,parked primary=taste.weak,parked,taste.weak|lr:mixed|n:1,taste,taste,weak,steer,walk_speed,0.58,2
+DNge086,steer,stim,0.27,visual.weak → steer,parked,visual.weak|lr:mixed|n:1,visual,visual,weak,steer,walk_speed,0.58,2
+DNge100,taste,stim,0.3,parked primary=taste.weak,parked,taste.weak|lr:bilateral|n:1,taste,taste,weak,steer,walk_speed,0.58,2
+DNge116,steer,stim,0.36000000000000004,visual.mod → steer,parked,visual.mod+wind.weak|lr:mixed|n:2,wind+visual,visual,mod,steer,walk_speed,0.58,4
+DNge125,taste,stim,0.3,parked primary=taste.weak,parked,taste.weak+odor.weak|lr:mixed|n:2,odor+taste,taste,weak,steer,walk_speed,0.58,2
+DNge148,wind,stim,0.3,parked primary=wind.weak,parked,wind.weak+loom.weak|lr:bilateral|n:2,loom+wind,wind,weak,steer,walk_speed,0.58,2
+DNge149,odor,stim,0.3,parked primary=odor.weak,parked,odor.weak|lr:bilateral|n:1,odor,odor,weak,steer,walk_speed,0.58,1
+DNge150,odor,stim,0.3,parked primary=odor.weak,parked,odor.weak+taste.weak|lr:mixed|n:2,odor+taste,odor,weak,steer,walk_speed,0.58,1
+DNge151,odor,stim,0.3,parked primary=odor.weak,parked,odor.weak+visual.weak|lr:bilateral|n:2,odor+visual,odor,weak,steer,walk_speed,0.58,1
+DNge172,silent,silent,0.0,curated_role=silent_pool,silent_pool,none.none|lr:mixed|n:0,silent,none,none,steer,walk_speed,0.58,2
+DNp104,steer,stim,0.27,visual.weak → steer,parked,visual.weak+odor.weak|lr:mixed|n:2,odor+visual,visual,weak,steer,walk_speed,0.58,2
+DNp14,taste,stim,0.3,parked primary=taste.weak,parked,taste.weak+odor.weak|lr:bilateral|n:2,odor+taste,taste,weak,steer,walk_speed,0.58,2
+DNp16,walk,stim,0.4,visual.mod bilateral/walk,parked,visual.mod+wind.mod|lr:bilateral|n:2,wind+visual+walk,visual,mod,steer,walk_speed,0.58,4
+DNp37,odor,stim,0.3,parked primary=odor.weak,parked,odor.weak+loom.weak|lr:mixed|n:3,loom+odor+visual,odor,weak,steer,walk_speed,0.58,2
+DNp39,steer,stim,0.36000000000000004,visual.mod → steer,parked,visual.mod+wind.weak|lr:mixed|n:2,wind+visual,visual,mod,steer,walk_speed,0.58,2
+DNp45,escape,stim,0.3,parked primary=loom.weak,parked,loom.weak+visual.weak|lr:mixed|n:2,loom+visual,loom,weak,steer,walk_speed,0.58,2
+DNp53,steer,stim,0.36000000000000004,visual.mod → steer,parked,visual.mod+wind.mod|lr:mixed|n:2,wind+visual,visual,mod,steer,walk_speed,0.58,2
+DNp68,odor,stim,0.3,parked primary=odor.weak,parked,odor.weak+loom.weak|lr:mixed|n:3,loom+odor+visual,odor,weak,steer,walk_speed,0.58,2
+DNpe001,steer,stim,0.27,visual.weak → brake,parked,visual.weak+wind.weak|lr:mixed|n:3,odor+wind+visual,visual,weak,brake,walk_speed,0.58,2
+DNpe003,odor,stim,0.3,parked primary=odor.weak,parked,odor.weak+loom.weak|lr:mixed|n:3,loom+odor+visual,odor,weak,brake,walk_speed,0.58,4
+DNpe016,walk,stim,0.4,visual.mod bilateral/walk,parked,visual.mod+loom.weak|lr:bilateral|n:2,loom+visual+walk,visual,mod,brake,walk_speed,0.58,2
+DNpe020,escape,stim,0.3,parked primary=loom.weak,parked,loom.weak+visual.weak|lr:bilateral|n:2,loom+visual,loom,weak,brake,walk_speed,0.58,2
+DNpe022,walk,stim,0.4,visual.mod bilateral/walk,parked,visual.mod+loom.weak|lr:bilateral|n:3,loom+wind+visual+walk,visual,mod,brake,walk_speed,0.58,2
+DNpe026,odor,stim,0.3,parked primary=odor.weak,parked,odor.weak+wind.weak|lr:bilateral|n:3,odor+wind+visual,odor,weak,brake,walk_speed,0.58,2
+DNpe035,walk,stim,0.4,visual.mod bilateral/walk,parked,visual.mod+odor.weak|lr:bilateral|n:2,odor+visual+walk,visual,mod,brake,walk_speed,0.58,2
+DNpe036,odor,stim,0.3,parked primary=odor.weak,parked,odor.weak|lr:bilateral|n:1,odor,odor,weak,brake,walk_speed,0.58,2
+DNpe044,odor,stim,0.3,parked primary=odor.weak,parked,odor.weak|lr:mixed|n:1,odor,odor,weak,brake,walk_speed,0.58,2
+DNpe053,brake,hand,1.0,hand _DN_ROLE=brake,parked,odor.weak+visual.weak|lr:mixed|n:2,odor+visual,odor,weak,brake,walk_speed,0.58,2
+DNpe055,walk,stim,0.3,visual.weak bilateral/walk,parked,visual.weak+wind.weak|lr:bilateral|n:2,wind+visual+walk,visual,weak,brake,walk_speed,0.58,2
+MDN,walk,stim,0.3,visual.weak bilateral/walk,parked,visual.weak|lr:bilateral|n:1,visual+walk,visual,weak,generic,walk_speed,0.58,4
+oviDNa_a,odor,stim,0.3,parked primary=odor.weak,parked,odor.weak|lr:mixed|n:1,odor,odor,weak,generic,walk_speed,0.58,2
+DNbe001,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.strong+visual.mod|lr:lateralized|n:4,loom+odor+wind+visual+turn,wind,strong,thrust,wind_modulated,0.9,2
+DNg05_a,wind,curated,1.0,curated_role=wind_jo,wind_jo,wind.strong+visual.weak|lr:lateralized|n:2,wind+visual+turn,wind,strong,thrust,wind_modulated,0.9,2
+DNg06,wind,curated,1.0,curated_role=wind_jo,wind_jo,wind.strong+visual.weak|lr:lateralized|n:2,wind+visual+turn,wind,strong,thrust,wind_modulated,0.9,11
+DNg07,wind,curated,1.0,curated_role=wind_jo,wind_jo,wind.strong+visual.weak|lr:lateralized|n:2,wind+visual+turn,wind,strong,thrust,wind_modulated,0.9,16
+DNg08_a,wind,curated,1.0,curated_role=wind_jo,wind_jo,wind.strong|lr:lateralized|n:1,wind+turn+inhibitory,wind,strong,thrust,wind_modulated,0.9,14
+DNg08_b,wind,curated,1.0,curated_role=wind_jo,wind_jo,wind.strong+odor.weak|lr:lateralized|n:2,odor+wind+turn+inhibitory,wind,strong,thrust,wind_modulated,0.9,8
+DNg09,wind,curated,1.0,curated_role=wind_jo,wind_jo,wind.strong|lr:lateralized|n:1,wind+turn,wind,strong,thrust,wind_modulated,0.9,8
+DNg106,wind,curated,1.0,curated_role=wind_jo,wind_jo,wind.strong|lr:bilateral|n:1,wind,wind,strong,thrust,wind_modulated,0.9,14
+DNg11,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.strong+visual.mod|lr:lateralized|n:2,wind+visual+turn,wind,strong,thrust,wind_modulated,0.9,6
+DNg110,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.strong+visual.weak|lr:mixed|n:3,odor+wind+visual,wind,strong,thrust,wind_modulated,0.9,6
+DNg18_b,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.strong+visual.mod|lr:lateralized|n:2,wind+visual+turn,wind,strong,thrust,wind_modulated,0.9,6
+DNg29,wind,curated,1.0,curated_role=wind_jo,wind_jo,wind.strong|lr:lateralized|n:1,wind+turn,wind,strong,thrust,wind_modulated,0.9,2
+DNg32,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.strong|lr:lateralized|n:1,wind+turn,wind,strong,thrust,wind_modulated,0.9,2
+DNg99,wind,curated,1.0,curated_role=wind_jo,wind_jo,wind.strong+odor.weak|lr:lateralized|n:3,odor+wind+visual+turn,wind,strong,thrust,wind_modulated,0.9,2
+DNge014,wind,curated,1.0,curated_role=wind_jo,wind_jo,wind.strong+visual.weak|lr:lateralized|n:2,wind+visual+turn,wind,strong,steer,wind_modulated,0.9,2
+DNge016,wind,curated,1.0,curated_role=wind_jo,wind_jo,wind.strong|lr:lateralized|n:1,wind+turn,wind,strong,steer,wind_modulated,0.9,2
+DNge030,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.strong+visual.weak|lr:lateralized|n:2,wind+visual+turn,wind,strong,steer,wind_modulated,0.9,2
+DNge084,wind,curated,1.0,curated_role=wind_jo,wind_jo,wind.strong+visual.weak|lr:lateralized|n:2,wind+visual+turn+inhibitory,wind,strong,steer,wind_modulated,0.9,2
+DNge089,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.strong+visual.weak|lr:lateralized|n:2,wind+visual+turn,wind,strong,steer,wind_modulated,0.9,8
+DNge090,wind,curated,1.0,curated_role=wind_jo,wind_jo,wind.strong+visual.weak|lr:lateralized|n:2,wind+visual+turn+inhibitory,wind,strong,steer,wind_modulated,0.9,4
+DNge091,wind,curated,1.0,curated_role=wind_jo,wind_jo,wind.strong+visual.weak|lr:lateralized|n:2,wind+visual+turn,wind,strong,steer,wind_modulated,0.9,17
+DNge092,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.strong+visual.weak|lr:mixed|n:2,wind+visual,wind,strong,steer,wind_modulated,0.9,4
+DNge093,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.strong+visual.weak|lr:lateralized|n:2,wind+visual+turn,wind,strong,steer,wind_modulated,0.9,4
+DNge107,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.strong+visual.mod|lr:mixed|n:2,wind+visual,wind,strong,steer,wind_modulated,0.9,2
+DNge111,wind,curated,1.0,curated_role=wind_jo,wind_jo,wind.strong+visual.mod|lr:lateralized|n:2,wind+visual+turn,wind,strong,steer,wind_modulated,0.9,5
+DNge113,wind,curated,1.0,curated_role=wind_jo,wind_jo,wind.strong+loom.weak|lr:lateralized|n:2,loom+wind+turn,wind,strong,steer,wind_modulated,0.9,5
+DNge138,wind,curated,1.0,curated_role=wind_jo,wind_jo,wind.strong+odor.weak|lr:lateralized|n:4,loom+odor+wind+visual+turn,wind,strong,steer,wind_modulated,0.9,2
+DNge140,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.strong|lr:lateralized|n:1,wind+turn,wind,strong,steer,wind_modulated,0.9,2
+DNge145,wind,curated,1.0,curated_role=wind_jo,wind_jo,wind.strong|lr:lateralized|n:1,wind+turn,wind,strong,steer,wind_modulated,0.9,4
+DNge175,wind,curated,1.0,curated_role=wind_jo,wind_jo,wind.strong|lr:lateralized|n:1,wind+turn,wind,strong,steer,wind_modulated,0.9,2
+DNp12,wind,curated,1.0,curated_role=wind_jo,wind_jo,wind.strong+visual.mod|lr:lateralized|n:3,odor+wind+visual+turn,wind,strong,steer,wind_modulated,0.9,2
+DNp18,wind,curated,1.0,curated_role=wind_jo,wind_jo,wind.strong+visual.weak|lr:lateralized|n:3,loom+wind+visual+turn,wind,strong,steer,wind_modulated,0.9,2
+DNp19,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.strong+visual.mod|lr:mixed|n:3,loom+wind+visual,wind,strong,steer,wind_modulated,0.9,2
+DNp33,wind,curated,1.0,curated_role=wind_jo,wind_jo,wind.strong|lr:lateralized|n:1,wind+turn,wind,strong,steer,wind_modulated,0.9,2
+DNp38,wind,curated,1.0,curated_role=wind_jo,wind_jo,wind.strong+odor.weak|lr:lateralized|n:2,odor+wind+turn,wind,strong,steer,wind_modulated,0.9,2
+DNp41,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.strong+visual.mod|lr:lateralized|n:2,wind+visual+turn,wind,strong,steer,wind_modulated,0.9,4
+DNp73,wind,curated,1.0,curated_role=wind_jo,wind_jo,wind.strong|lr:lateralized|n:1,wind+turn,wind,strong,steer,wind_modulated,0.9,2
+DNpe017,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.strong+visual.mod|lr:lateralized|n:2,wind+visual+turn,wind,strong,brake,wind_modulated,0.9,2
+DNg18_a,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.mod|lr:lateralized|n:2,wind+visual+turn+inhibitory,wind,mod,thrust,wind_modulated,0.8909596891840361,2
+DNg51,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.weak|lr:lateralized|n:2,wind+visual+turn,wind,mod,thrust,wind_modulated,0.8884875357233095,4
+DNp28,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.mod|lr:bilateral|n:2,wind+visual,wind,mod,steer,wind_modulated,0.8878101941295566,2
+DNp10,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+odor.weak|lr:lateralized|n:3,odor+wind+visual+turn,wind,mod,steer,wind_modulated,0.8769338606870997,2
+DNg56,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+odor.mod|lr:lateralized|n:3,odor+wind+visual+turn+inhibitory,wind,mod,thrust,wind_modulated,0.8653535874896191,2
+DNpe032,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.mod|lr:mixed|n:2,wind+visual,wind,mod,brake,wind_modulated,0.8556007148059027,2
+DNpe014,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.mod|lr:lateralized|n:2,wind+visual+turn,wind,mod,brake,wind_modulated,0.8461864435187232,4
+DNge095,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.weak|lr:lateralized|n:2,wind+visual+turn,wind,mod,steer,wind_modulated,0.8383460829166266,2
+DNg36_a,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.weak|lr:lateralized|n:2,wind+visual+turn,wind,mod,thrust,wind_modulated,0.8376562566916724,4
+DNge115,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.weak|lr:lateralized|n:2,wind+visual+turn,wind,mod,steer,wind_modulated,0.829054222033943,8
+DNge108,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.weak|lr:mixed|n:2,wind+visual,wind,mod,steer,wind_modulated,0.8218653024925785,3
+DNp40,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.mod|lr:lateralized|n:2,wind+visual+turn,wind,mod,steer,wind_modulated,0.8186151919901202,2
+DNp20,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.mod|lr:lateralized|n:2,wind+visual+turn,wind,mod,steer,wind_modulated,0.8024949545343983,2
+DNge043,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.mod|lr:lateralized|n:2,wind+visual+turn+inhibitory,wind,mod,steer,wind_modulated,0.8022098136845197,2
+DNg05_b,wind,curated,1.0,curated_role=wind_jo,wind_jo,wind.mod+visual.weak|lr:lateralized|n:3,odor+wind+visual+turn,wind,mod,thrust,wind_modulated,0.7987566358640807,6
+DNge078,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod|lr:lateralized|n:1,wind+turn,wind,mod,steer,wind_modulated,0.797480947393851,2
+DNg24,wind,curated,1.0,curated_role=wind_jo,wind_jo,wind.mod|lr:lateralized|n:1,wind+turn+inhibitory,wind,mod,thrust,wind_modulated,0.7953903344080919,2
+DNge132,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod|lr:lateralized|n:1,wind+turn,wind,mod,steer,wind_modulated,0.7849017365292098,2
+DNp22,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.mod|lr:lateralized|n:2,wind+visual+turn,wind,mod,steer,wind_modulated,0.7799237479577303,2
+DNp72,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.mod|lr:lateralized|n:2,wind+visual+turn,wind,mod,steer,wind_modulated,0.7751666886140426,1
+DNpe015,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.mod|lr:lateralized|n:2,wind+visual+turn,wind,mod,brake,wind_modulated,0.7734589836143159,10
+DNg10,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.weak|lr:lateralized|n:2,wind+visual+turn+inhibitory,wind,mod,thrust,wind_modulated,0.7708497535018353,12
+DNg02_a,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.mod|lr:mixed|n:2,wind+visual,wind,mod,thrust,wind_modulated,0.7706573751400448,6
+DNpe019,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.weak|lr:mixed|n:2,wind+visual,wind,mod,brake,wind_modulated,0.769846677300171,2
+DNge015,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.weak|lr:bilateral|n:2,wind+visual,wind,mod,steer,wind_modulated,0.7696297915336007,6
+DNpe027,steer,stim,0.36000000000000004,visual.mod → brake,parked,visual.mod+wind.mod|lr:mixed|n:3,odor+wind+visual,visual,mod,brake,wind_modulated,0.7680929395434615,2
+DNg01,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.mod|lr:lateralized|n:4,loom+odor+wind+visual+turn,wind,mod,thrust,wind_modulated,0.7672610523574682,8
+DNg94,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.mod|lr:lateralized|n:2,wind+visual+turn,wind,mod,thrust,wind_modulated,0.7664484651607296,2
+DNb06,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.mod|lr:lateralized|n:2,wind+visual+turn,wind,mod,thrust,wind_modulated,0.7632359272239205,2
+DNpe012,steer,stim,0.36000000000000004,visual.mod → brake,parked,visual.mod+wind.mod|lr:mixed|n:2,wind+visual,visual,mod,brake,wind_modulated,0.7631569219158743,8
+DNge154,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod|lr:lateralized|n:1,wind+turn,wind,mod,steer,wind_modulated,0.7613086459658552,1
+DNge117,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.mod|lr:lateralized|n:2,wind+visual+turn,wind,mod,steer,wind_modulated,0.7586880458972013,2
+DNge112,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod|lr:lateralized|n:1,wind+turn,wind,mod,steer,wind_modulated,0.7556173379551258,2
+DNp11,steer,stim,0.4,visual.mod lateralized/turn,parked,visual.mod+wind.mod|lr:lateralized|n:3,loom+wind+visual+turn,visual,mod,steer,wind_modulated,0.7523984515910994,2
+DNg62,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod|lr:lateralized|n:1,wind+turn,wind,mod,thrust,wind_modulated,0.749915447277556,2
+DNg92_b,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.weak|lr:mixed|n:2,wind+visual,wind,mod,thrust,wind_modulated,0.7485404865088003,4
+DNge011,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod|lr:lateralized|n:1,wind+turn,wind,mod,steer,wind_modulated,0.7484573224058272,2
+DNge109,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.mod|lr:lateralized|n:2,wind+visual+turn,wind,mod,steer,wind_modulated,0.748298861489769,2
+DNge118,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod|lr:lateralized|n:1,wind+turn,wind,mod,steer,wind_modulated,0.7479759847908449,2
+DNge097,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.mod|lr:bilateral|n:2,wind+visual+inhibitory,wind,mod,steer,wind_modulated,0.7474265011881821,2
+DNge039,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod|lr:lateralized|n:1,wind+turn,wind,mod,steer,wind_modulated,0.7444580047483786,2
+DNpe028,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.mod|lr:mixed|n:3,odor+wind+visual,wind,mod,brake,wind_modulated,0.7395934208998027,2
+DNae006,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+odor.weak|lr:mixed|n:3,odor+wind+visual,wind,mod,steer,wind_modulated,0.7388330945654932,2
+DNa10,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.mod|lr:lateralized|n:4,loom+odor+wind+visual+turn,wind,mod,steer,wind_modulated,0.738017247629754,2
+DNg81,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod|lr:lateralized|n:1,wind+turn,wind,mod,thrust,wind_modulated,0.7355692149596301,2
+DNg17,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod|lr:bilateral|n:1,wind+inhibitory,wind,mod,thrust,wind_modulated,0.73521969842951,2
+DNg92_a,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.weak|lr:lateralized|n:3,odor+wind+visual+turn+inhibitory,wind,mod,thrust,wind_modulated,0.7345858293595461,4
+DNp51,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.mod|lr:bilateral|n:2,wind+visual,wind,mod,steer,wind_modulated,0.7336851771777023,2
+DNg71,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.weak|lr:lateralized|n:2,wind+visual+turn+inhibitory,wind,mod,thrust,wind_modulated,0.7322330430409549,2
+DNg37,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod|lr:lateralized|n:1,wind+turn,wind,mod,thrust,wind_modulated,0.731806284630177,2
+DNbe005,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.weak|lr:lateralized|n:2,wind+visual+turn+inhibitory,wind,mod,thrust,wind_modulated,0.7303981531175631,2
+DNge071,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.weak|lr:lateralized|n:2,wind+visual+turn,wind,mod,steer,wind_modulated,0.7299143007801495,16
+DNp54,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+odor.mod|lr:lateralized|n:3,odor+wind+visual+turn+inhibitory,wind,mod,steer,wind_modulated,0.7294616776629198,2
+DNg64,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod|lr:lateralized|n:1,wind+turn+inhibitory,wind,mod,thrust,wind_modulated,0.7292565407309787,2
+DNg12_b,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod|lr:bilateral|n:1,wind,wind,mod,thrust,wind_modulated,0.7262190918270133,18
+DNae009,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.weak|lr:mixed|n:2,wind+visual,wind,mod,steer,wind_modulated,0.7256401675352857,2
+DNbe002,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.weak|lr:bilateral|n:4,odor+wind+taste+visual,wind,mod,thrust,wind_modulated,0.7250515371926964,4
+DNae010,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.weak|lr:lateralized|n:3,loom+wind+visual+turn,wind,mod,steer,wind_modulated,0.7250376829301598,2
+DNge017,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.weak|lr:lateralized|n:2,wind+visual+turn,wind,mod,steer,wind_modulated,0.7244330075664015,2
+DNge088,steer,stim,0.36000000000000004,visual.mod → steer,parked,visual.mod+wind.mod|lr:mixed|n:2,wind+visual+inhibitory,visual,mod,steer,wind_modulated,0.7235491158817842,2
+DNge019,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod|lr:lateralized|n:1,wind+turn,wind,mod,steer,wind_modulated,0.7220123588998671,12
+DNge012,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod|lr:lateralized|n:1,wind+turn,wind,mod,steer,wind_modulated,0.721795970087139,2
+DNg22,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod|lr:lateralized|n:1,wind+turn,wind,mod,thrust,wind_modulated,0.7217738359286016,2
+DNg84,wind,curated,1.0,curated_role=wind_jo,wind_jo,wind.mod|lr:lateralized|n:1,wind+turn,wind,mod,thrust,wind_modulated,0.7206713290435701,2
+DNb04,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.weak|lr:bilateral|n:2,wind+visual+inhibitory,wind,mod,thrust,wind_modulated,0.7204033289862445,3
+DNae002,wind,putative,0.6,curated_role=wind_putative,wind_putative,wind.mod+visual.weak|lr:lateralized|n:3,loom+wind+visual+turn,wind,mod,steer,wind_modulated,0.7200518032820874,2
